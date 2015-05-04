@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="accounts">
+        <item>0001</item>
+        <item>0002</item>
+        <item>0003</item>
+        <item>0004</item>
+        <item>0005</item>
+        <item>0006</item>
+        <item>0007</item>
+    </integer-array>
+</resources>
